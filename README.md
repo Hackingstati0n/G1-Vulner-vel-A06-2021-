@@ -32,7 +32,7 @@ Para mitigar ataques de **Clickjacking**, os administradores do site devem:
 
 ## 📚 Referências de Segurança
 ### OWASP Top 10
-Clickjacking é um problema de segurança reconhecido pelo **OWASP Top 10**, um dos principais guias de segurança de aplicações web. Ele se encaixa na categoria **A06:2021 - Vulnerabilidades de Componentes Externos Mal Configurados**, pois a ausência de cabeçalhos de proteção contra iframes expõe usuários a ataques.
+Clickjacking é um problema de segurança reconhecido pelo **OWASP Top 10**, um dos principais guias de segurança de aplicações web. Ele se encaixa na categoria **A05:2021 - Vulnerable and Outdated Components**, pois a ausência de cabeçalhos de proteção contra iframes expõe usuários a ataques.
 
 Mais informações: [OWASP Clickjacking](https://owasp.org/www-community/attacks/Clickjacking)
 
