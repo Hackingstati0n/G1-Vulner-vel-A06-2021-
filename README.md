@@ -1,5 +1,7 @@
 # 🚨 G1 => A05:2021 – Security Misconfiguration [ClickJacking]
 
+![image](https://github.com/user-attachments/assets/463ae380-d267-4fba-bbc0-dff7ea3458a9)
+
 ## 📌 Descrição
 Este repositório demonstra uma falha de segurança do tipo **Clickjacking** presente no site do **G1**. A vulnerabilidade permite que um invasor carregue o site dentro de um **iframe**, sobrepondo elementos maliciosos para enganar o usuário.
 
