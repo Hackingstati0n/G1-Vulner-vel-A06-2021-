@@ -1,4 +1,4 @@
-# 🚨 Clickjacking no G1: Uma Falha de Segurança
+# 🚨 Clickjacking no G1: Falha de Segurança
 
 ## 📌 Descrição
 Este repositório demonstra uma falha de segurança do tipo **Clickjacking** presente no site do **G1**. A vulnerabilidade permite que um invasor carregue o site dentro de um **iframe**, sobrepondo elementos maliciosos para enganar o usuário.
