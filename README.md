@@ -50,7 +50,7 @@ Escrevi o [index.html](https://github.com/Hackingstati0n/G1-Vulner-vel-A06-2021-
 
 ![image](https://github.com/user-attachments/assets/a475b133-9cfd-48a0-8e15-667e20d4d1e3)
 
-Pela frente da **pagina renderizada roubada**, adicionei um bloco de codigo no head que abrira um pop-up em 2 segundos. Esse pop-up contribuira para a Engenharia Social. Permitindo que implementassemos um elemento de download automatico **Drive By Download**. Uma fez feito o Download, ele podera baixar o conteudo malicioso para a maquina do cliente. Fazendo com que ele possa abrir uma RAT, Ransomware, Infostealer e demais outros payloads.
+Na seção inicial da página renderizada comprometida, inseri um bloco de código no cabeçalho (head) que disparará um pop-up após um intervalo de 2 segundos. Esse pop-up foi estrategicamente desenvolvido para facilitar a execução de técnicas de Engenharia Social. Essa abordagem permitirá a implementação de um mecanismo de Drive-By Download, possibilitando o download automático de conteúdo malicioso diretamente no dispositivo do usuário. Uma vez concluído o download, o código malicioso poderá ser executado, abrindo caminho para a instalação de diversos payloads, como um RAT (Remote Access Trojan), Ransomware, Infostealer, entre outras ameaças cibernéticas.
 
 ![image](https://github.com/user-attachments/assets/d5302d1c-4a54-45d1-a8c5-85ace8ab1fef)
 
