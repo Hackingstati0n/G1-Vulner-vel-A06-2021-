@@ -46,7 +46,9 @@ Este repositório é apenas para fins educacionais e de pesquisa em segurança. 
 
 ## Provas de Conceito [PoC]
 
-Escrevi o [index.html](https://github.com/Hackingstati0n/G1-Vulner-vel-A06-2021-/blob/main/index.html)  que renderizara uma pagina da WEB (especiais.g1.globo.com/app-g1/index.html). Esta pagina possui uma falha alta pois nao possui o X-Frame dentro dos cabeçalhos. Permitindo que possamos renderizar (e roubar) uma pagina inteira original e hospedarmos dentro do nosso servidor ou host em que tenhamos controle. 
+Escrevi o [index.html](https://github.com/Hackingstati0n/G1-Vulner-vel-A06-2021-/blob/main/index.html)  que renderizara uma pagina da WEB (especiais.g1.globo.com/app-g1/index.html). Esta pagina possui uma falha alta pois nao possui o X-Frame dentro dos cabeçalhos. Permitindo que possamos renderizar (e roubar) uma pagina inteira original e hospedarmos dentro do nosso servidor ou host em que tenhamos controle.
+
+[Explore o site aqui:](https://hackingstati0n.github.io/G1-Vulner-vel-A06-2021-/) 
 
 ![image](https://github.com/user-attachments/assets/a475b133-9cfd-48a0-8e15-667e20d4d1e3)
 
